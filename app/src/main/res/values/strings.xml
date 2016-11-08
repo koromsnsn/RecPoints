@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecPoints</string>
+    <string name="title_activity_rec_points">RecPoints</string>
+    <string name="latitude">緯度</string>
+    <string name="longitude">経度</string>
+    <string name="address">住所</string>
+    <string name="remarks">備考</string>
+    <string name="get_address">住所取得</string>
+    <string name="rec_point">記録する</string>
+    <string name="marker_on">マーカーを表示</string>
+    <string name="marker_off">マーカーを非表示</string>
+    <string name="gps_not_enable">GPSが利用できません</string>
+    <string name="location_not_enable">位置情報が利用できません</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="remarks_required">備考を入力してください</string>
+    <string name="alert_dialog_save_confirm_title">記録する</string>
+    <string name="alert_dialog_save_confirm_message">ここを記録しますか？</string>
+    <string name="saved">データを保存しました</string>
+    <string name="save_failed">データの保存に失敗しました</string>
+</resources>
